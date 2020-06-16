@@ -10,7 +10,7 @@ namespace _123
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("sadfsdffdsfdsfds");
+            Console.WriteLine("dupskoooo");
         }
     }
 }
